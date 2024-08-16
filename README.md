@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Athanasia Grigoridou!
 
-I'm a student at the Department of Information and Communication Systems Engineering, University of the Aegean. I have a strong foundation in programming languages like Java, Python, C++, C, SQL, and PHP. I'm passionate about Robotics, AI, and Machine Learning and I enjoy diving deep into these fields through my studies and personal projects.
+I'm a student at the Department of Information and Communication Systems Engineering, University of the Aegean. I'm passionate about Robotics, AI, and Machine Learning and I enjoy diving deep into these fields through my studies and personal projects.
 
 ## 🚀 What I'm Currently Working On
 
