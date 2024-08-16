@@ -76,6 +76,9 @@ I'm a student at the Department of Information and Communication Systems Enginee
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=agrigoridou&theme=dark)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agrigoridou&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 🎯 Interests & Hobbies
 
 - 📚 **Exploring Knowledge:** I love reading about the latest developments in Robotics, AI and Machine Learning , always eager to expand my understanding of these fields.
