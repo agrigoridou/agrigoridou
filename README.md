@@ -72,11 +72,29 @@ I'm a student at the Department of Information and Communication Systems Enginee
 
 ## 📊 GitHub Stats
 
-![Athanasia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=agrigoridou&show_icons=true&theme=radical)
+<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=agrigoridou&theme=dark)](https://git.io/streak-stats)
+  <table>
+    <tr>
+      <td>
+        ![Athanasia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=agrigoridou&show_icons=true&theme=radical)
+      </td>
+      <td>
+        [![GitHub Streak](https://streak-stats.demolab.com/?user=agrigoridou&theme=dark)](https://git.io/streak-stats)
+      </td>
+    </tr>
+    <tr>
+      <td>
+        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agrigoridou&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+      </td>
+      <td>
+        <!-- You can add another image or content here if needed -->
+      </td>
+    </tr>
+  </table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agrigoridou&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 
 
 ## 🎯 Interests & Hobbies
