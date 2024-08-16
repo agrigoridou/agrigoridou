@@ -87,9 +87,6 @@ I'm a student at the Department of Information and Communication Systems Enginee
       <td>
         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agrigoridou&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
       </td>
-      <td>
-        <!-- You can add another image or content here if needed -->
-      </td>
     </tr>
   </table>
 
