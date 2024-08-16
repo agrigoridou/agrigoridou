@@ -17,7 +17,8 @@ I'm a student at the Department of Information and Communication Systems Enginee
 
 ## 📊 GitHub Stats
 
-![Athanasia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=athanasiaGrigoridou&show_icons=true&theme=radical)
+![Athanasia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=athanasia-grig&show_icons=true&theme=radical)
+
 
 
 ## 🎯 Interests & Hobbies
