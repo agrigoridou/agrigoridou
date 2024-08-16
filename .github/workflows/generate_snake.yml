@@ -2,7 +2,7 @@ name: Generate GitHub Snake
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs every day at midnight
+    - cron: '0 0 * * *' # Εκτέλεση κάθε μέρα μεσάνυχτα
   workflow_dispatch:
 
 jobs:
@@ -19,7 +19,7 @@ jobs:
     - name: Generate snake game image
       uses: Platane/snk@v3
       with:
-        github_user_name: ${{ github.repository_owner }}
+        github_user_name: agrigoridou
         outputs: |
           dist/github-snake.svg
           dist/github-snake-dark.svg?palette=github-dark
