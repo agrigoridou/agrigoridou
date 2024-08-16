@@ -1,5 +1,12 @@
 # 👋 Hello, I'm Athanasia Grigoridou!
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agrigoridou/agrigoridou/main/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agrigoridou/agrigoridou/main/dist/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/agrigoridou/agrigoridou/main/dist/github-snake.svg" />
+</picture>
+
+
 I'm a student at the Department of Information and Communication Systems Engineering, University of the Aegean. I'm passionate about Robotics, AI, and Machine Learning and I enjoy diving deep into these fields through my studies and personal projects.
 
 ## 🚀 What I'm Currently Working On
