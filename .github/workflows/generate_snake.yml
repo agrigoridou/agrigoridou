@@ -19,7 +19,7 @@ jobs:
     - name: Generate snake game image
       uses: Platane/snk@v3
       with:
-        github_user_name: agrigoridou
+        github_user_name: agri
         outputs: |
           dist/github-snake.svg
           dist/github-snake-dark.svg?palette=github-dark
