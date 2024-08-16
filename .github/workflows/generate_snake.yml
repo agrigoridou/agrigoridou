@@ -19,7 +19,7 @@ jobs:
     - name: Generate snake game image
       uses: Platane/snk@v3
       with:
-        github_user_name: agrigoridou
+        github_user_name: agri
         outputs: |
           dist/github-snake.svg
           dist/github-snake-dark.svg?palette=github-dark
@@ -27,6 +27,13 @@ jobs:
 
     - name: List files in dist directory
       run: ls -la dist
+
+    - name: Check file content
+      run: |
+        echo "Checking if files exist..."
+        if [ -f "dist/github-snake.svg" ]; then echo "File github-snake.svg exists"; else echo "File github-snake.svg does not exist"; fi
+        if [ -f "dist/github-snake-dark.svg" ]; then echo "File github-snake-dark.svg exists"; else echo "File github-snake-dark.svg does not exist"; fi
+        if [ -f "dist/ocean.gif" ]; then echo "File ocean.gif exists"; else echo "File ocean.gif does not exist"; fi
 
     - name: Commit and push images
       uses: EndBug/add-and-commit@v9
