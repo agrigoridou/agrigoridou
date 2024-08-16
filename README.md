@@ -9,17 +9,11 @@ I'm a student at the Department of Information and Communication Systems Enginee
 - 💬 Ask me about Java, Python, C++, and AI technologies.
 - ⚡ Fun fact: I use tabs over spaces  
 
-## 🛠️ My Favorite Tools & Technologies
-
-- **Programming Languages:** Java, Python, C++, C, SQL, PHP
-- **Frameworks & Libraries:** TensorFlow, scikit-learn, OpenCV
-- **Tools:** Git, VS Code, Arduino IDE
-- **Cloud & Hosting:** AWS, Heroku
 
   <br/>  
 
 
-## My Skill Set  
+## 🛠️ My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
