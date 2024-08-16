@@ -13,23 +13,23 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v3
 
-    - name: Create output directory
-      run: mkdir -p output
+    - name: Create dist directory
+      run: mkdir -p dist
 
     - name: Generate snake game image
       uses: Platane/snk@v3
       with:
         github_user_name: ${{ github.repository_owner }}
         outputs: |
-          output/github-snake.svg
-          output/github-snake-dark.svg?palette=github-dark
-          output/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+          dist/github-snake.svg
+          dist/github-snake-dark.svg?palette=github-dark
+          dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
     - name: Verify generated files
-      run: ls -la output
+      run: ls -la dist
 
     - name: Commit and push images
       uses: EndBug/add-and-commit@v9
       with:
-        add: 'output/github-snake.svg,output/github-snake-dark.svg,output/ocean.gif'
+        add: 'dist/github-snake.svg,dist/github-snake-dark.svg,dist/ocean.gif'
         message: 'Update GitHub snake images'
