@@ -7,7 +7,7 @@ I'm a student at the Department of Information and Communication Systems Enginee
 - 🌱 I’m currently exploring advancements in AI and Machine Learning.
 - 🛠️ I’m working on projects related to robotics and intelligent systems.
 - 💬 Ask me about Java, Python, C++, and AI technologies.
-- ⚡ Fun fact: I use tabs over spaces  
+
 
 
   <br/>  
