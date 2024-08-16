@@ -73,24 +73,19 @@ I'm a student at the Department of Information and Communication Systems Enginee
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <table>
-    <tr>
-      <td>
-        ![Athanasia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=agrigoridou&show_icons=true&theme=radical)
-      </td>
-      <td>
-        [![GitHub Streak](https://streak-stats.demolab.com/?user=agrigoridou&theme=dark)](https://git.io/streak-stats)
-      </td>
-    </tr>
-    <tr>
-      <td>
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agrigoridou&layout=donut&theme=dark)](https://github.com/agrigoridou/github-readme-stats)
-      </td>
-    </tr>
-  </table>
-
+  <div style="display: flex; justify-content: center;">
+    <div style="margin-right: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=agrigoridou&show_icons=true&theme=radical" alt="Athanasia's GitHub Stats" />
+    </div>
+    <div style="margin-right: 10px;">
+      <img src="https://streak-stats.demolab.com/?user=agrigoridou&theme=dark" alt="GitHub Streak" />
+    </div>
+    <div>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrigoridou&layout=donut&theme=dark" alt="Top Languages" />
+    </div>
+  </div>
 </div>
+
 
 
 
