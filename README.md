@@ -67,6 +67,8 @@ I'm a student at the Department of Information and Communication Systems Enginee
 
 </td></tr></table>  
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrigoridou&layout=donut&theme=dark" alt="Top Languages" />
+
 <br/>  
 
 
@@ -74,7 +76,6 @@ I'm a student at the Department of Information and Communication Systems Enginee
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; justify-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=agrigoridou&show_icons=true&theme=radical" alt="Athanasia's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrigoridou&layout=donut&theme=dark" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com/?user=agrigoridou&theme=dark" alt="GitHub Streak" />
 </div>
 
