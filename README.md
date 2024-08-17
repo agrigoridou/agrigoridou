@@ -1,6 +1,8 @@
 # 👋 Hello, I'm Athanasia Grigoridou!
 
-
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=agrigoridou&&style=flat-square" align="center" />
+</div>  
 
 
 I'm a student at the Department of Information and Communication Systems Engineering, University of the Aegean. I'm passionate about Robotics, AI, and Machine Learning and I enjoy diving deep into these fields through my studies and personal projects.
@@ -90,6 +92,4 @@ I'm a student at the Department of Information and Communication Systems Enginee
 - 🎮 **Strategic Thinking:** I’m an avid fan of strategy games, where I can challenge my mind and enjoy some competitive fun.
 
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=agrigoridou&&style=flat-square" align="center" />
-</div>  
+
