@@ -1,8 +1,5 @@
-# 👋 Hello, I'm Athanasia Grigoridou!
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=agrigoridou&&style=flat-square" align="center" />
-</div>  
+# 👋 Hello, I'm Athanasia Grigoridou! <img src="https://komarev.com/ghpvc/?username=agrigoridou&&style=flat-square" align="center" />
+ 
 
 
 I'm a student at the Department of Information and Communication Systems Engineering, University of the Aegean. I'm passionate about Robotics, AI, and Machine Learning and I enjoy diving deep into these fields through my studies and personal projects.
