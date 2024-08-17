@@ -73,8 +73,8 @@ I'm a student at the Department of Information and Communication Systems Enginee
 ## 📊 GitHub Stats
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; justify-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=agrigoridou&show_icons=true&theme=radical" alt="Athanasia's GitHub Stats" weight = "200" height="300" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrigoridou&layout=donut&theme=dark" alt="Top Languages" weight = "600" height="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=agrigoridou&show_icons=true&theme=radical" alt="Athanasia's GitHub Stats" width = "400" height="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrigoridou&layout=donut&theme=dark" alt="Top Languages" width = "600" height="300" />
 </div>
 
 
