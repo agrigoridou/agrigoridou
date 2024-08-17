@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Athanasia Grigoridou! <t></t><img src="https://komarev.com/ghpvc/?username=agrigoridou&&style=flat-square" align="center" />
+# 👋 Hello, I'm Athanasia Grigoridou! <img src="https://komarev.com/ghpvc/?username=agrigoridou&&style=flat-square" align="right" />
  
 
 
