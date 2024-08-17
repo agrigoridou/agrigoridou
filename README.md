@@ -67,10 +67,9 @@ I'm a student at the Department of Information and Communication Systems Enginee
 
 </td></tr></table>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrigoridou&layout=donut&theme=dark" alt="Top Languages" />
-
 <br/>  
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrigoridou&layout=donut&theme=dark" alt="Top Languages" />
 
 ## 📊 GitHub Stats
 
