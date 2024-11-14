@@ -12,7 +12,8 @@ I'm a student at the Department of Information and Communication Systems Enginee
 
 
 ## 🛠️ My Skill Set  
-<table><tr><td valign="top" width="50%">  
+<table><tr>  
+<td valign="top" width="25%">  
 
 ### Web Development  
 <div align="left">  
@@ -22,7 +23,8 @@ I'm a student at the Department of Information and Communication Systems Enginee
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="35" /></a>  
 </div>
 
-</td><td valign="top" width="50%">  
+</td>  
+<td valign="top" width="25%">  
 
 ### Backend & Database  
 <div align="left">  
@@ -32,7 +34,8 @@ I'm a student at the Department of Information and Communication Systems Enginee
 <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="35" /></a>  
 </div>
 
-</td></tr><tr><td valign="top" width="50%">  
+</td>  
+<td valign="top" width="25%">  
 
 ### Programming Languages  
 <div align="left">  
@@ -42,14 +45,18 @@ I'm a student at the Department of Information and Communication Systems Enginee
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="35" /></a>  
 </div>
 
-</td><td valign="top" width="50%">  
+</td>  
+<td valign="top" width="25%">  
 
 ### Game Development  
 <div align="left">  
 <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="35" /></a>  
 </div>
 
-</td></tr><tr><td valign="top" width="50%">  
+</td>  
+</tr>  
+<tr>  
+<td valign="top" width="25%">  
 
 ### Machine Learning & AI  
 <div align="left">  
@@ -58,7 +65,8 @@ I'm a student at the Department of Information and Communication Systems Enginee
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="35" /></a>  
 </div>
 
-</td><td valign="top" width="50%">  
+</td>  
+<td valign="top" width="25%">  
 
 ### Tools  
 <div align="left">  
@@ -68,14 +76,18 @@ I'm a student at the Department of Information and Communication Systems Enginee
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="35" /></a>  
 </div>
 
-</td></tr><tr><td valign="top" width="50%">  
+</td>  
+<td valign="top" width="25%">  
 
 ### Operating Systems  
 <div align="left">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="35" /></a>  
 </div>
 
-</td></tr></table>
+</td>  
+</tr>  
+</table>
+
 
 
 
