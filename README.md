@@ -103,12 +103,3 @@ I'm an undergraduate student in the Department of Information and Communication 
 
 
 
-
-## 🎯 Interests & Hobbies
-
-- 📚 **Exploring Knowledge:** I love reading about the latest developments in Robotics, AI and Machine Learning , always eager to expand my understanding of these fields.
-- 🎻 **Music Enthusiast:** I enjoy playing the violin, finding harmony not just in music, but also in the balance of technology and art.
-- 🎮 **Strategic Thinking:** I’m an avid fan of strategy games, where I can challenge my mind and enjoy some competitive fun.
-
-
-
