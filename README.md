@@ -57,6 +57,8 @@ I'm a student at the Department of Information and Communication Systems Enginee
 </div>
 
 </td>  
+</tr>  
+<tr> 
 <td valign="top" width="25%">  
 
 ### Tools  
@@ -75,9 +77,7 @@ I'm a student at the Department of Information and Communication Systems Enginee
 <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="35" /></a>  
 </div>
 
-</td>  
-</tr>  
-<tr>  
+</td>   
 <td valign="top" width="25%"> 
  
 ### Operating Systems  
