@@ -11,7 +11,6 @@ I'm a student at the Department of Information and Communication Systems Enginee
 - 💬 Ask me about Java, Python, C++, and AI technologies.
 
 
-
 ## 🛠️ My Skill Set  
 <table><tr><td valign="top" width="50%">  
 
@@ -77,6 +76,7 @@ I'm a student at the Department of Information and Communication Systems Enginee
 </div>
 
 </td></tr></table>
+
 
 
 ## 📊 GitHub Stats
