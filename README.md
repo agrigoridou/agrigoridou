@@ -12,43 +12,71 @@ I'm a student at the Department of Information and Communication Systems Enginee
 
 
 
-## 🛠️ My Skill Set
+## 🛠️ My Skill Set  
+<table><tr><td valign="top" width="50%">  
 
-### Web Development
-[![HTML5](https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg)](https://en.wikipedia.org/wiki/HTML5)  
-[![CSS3](https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg)](https://www.w3schools.com/css/)  
-[![JavaScript](https://profilinator.rishav.dev/skills-assets/javascript-original.svg)](https://www.javascript.com/)  
-[![Bootstrap](https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg)](https://getbootstrap.com/docs/3.4/javascript/)
+### Web Development  
+<div align="left">  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="35" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="35" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="35" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="35" /></a>  
+</div>
 
-### Backend & Database
-[![PHP](https://profilinator.rishav.dev/skills-assets/php-original.svg)](https://www.php.net/)  
-[![XAMPP](https://profilinator.rishav.dev/skills-assets/xampp.png)](https://www.apachefriends.org/)  
-[![MySQL](https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg)](https://www.mysql.com/)  
-[![MariaDB](https://profilinator.rishav.dev/skills-assets/mariadb.png)](https://mariadb.org/)
+</td><td valign="top" width="50%">  
 
-### Programming Languages
-[![C](https://profilinator.rishav.dev/skills-assets/c-original.svg)](https://www.cprogramming.com/)  
-[![C++](https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg)](https://www.cplusplus.com/)  
-[![Java](https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg)](https://www.java.com/)  
-[![Python](https://profilinator.rishav.dev/skills-assets/python-original.svg)](https://www.python.org/)
+### Backend & Database  
+<div align="left">  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="35" /></a>  
+<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="35" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="35" /></a>  
+<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="35" /></a>  
+</div>
 
-### Game Development
-[![Unity](https://profilinator.rishav.dev/skills-assets/unity.png)](https://unity.com/)
+</td></tr><tr><td valign="top" width="50%">  
 
-### Machine Learning & AI
-[![TensorFlow](https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg)](https://www.tensorflow.org/)  
-[![Keras](https://profilinator.rishav.dev/skills-assets/keras.png)](https://keras.io/)  
-[![OpenCV](https://profilinator.rishav.dev/skills-assets/opencv-icon.svg)](https://opencv.org/)
+### Programming Languages  
+<div align="left">  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="35" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="35" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="35" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="35" /></a>  
+</div>
 
-### Tools
-[![Git](https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg)](https://github.com/)  
-[![Figma](https://profilinator.rishav.dev/skills-assets/figma-icon.svg)](https://www.figma.com/)  
-[![Arduino](https://profilinator.rishav.dev/skills-assets/arduino.png)](https://www.arduino.cc/)  
-[![Raspberry Pi](https://profilinator.rishav.dev/skills-assets/raspberrypi.png)](https://www.raspberrypi.org/)
+</td><td valign="top" width="50%">  
 
-### Operating Systems
-[![Linux](https://profilinator.rishav.dev/skills-assets/linux-original.svg)](https://www.linux.org/)
+### Game Development  
+<div align="left">  
+<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="35" /></a>  
+</div>
 
+</td></tr><tr><td valign="top" width="50%">  
+
+### Machine Learning & AI  
+<div align="left">  
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="35" /></a>  
+<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="35" /></a>  
+<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="35" /></a>  
+</div>
+
+</td><td valign="top" width="50%">  
+
+### Tools  
+<div align="left">  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="35" /></a>  
+<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="35" /></a>  
+<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="35" /></a>  
+</div>
+
+</td></tr><tr><td valign="top" width="50%">  
+
+### Operating Systems  
+<div align="left">  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="35" /></a>  
+</div>
+
+</td></tr></table>
 
 
 ## 📊 GitHub Stats
