@@ -47,16 +47,7 @@ I'm a student at the Department of Information and Communication Systems Enginee
 
 </td>  
 <td valign="top" width="25%">  
-
-### Game Development  
-<div align="left">  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="35" /></a>  
-</div>
-
-</td>  
-</tr>  
-<tr>  
-<td valign="top" width="25%">  
+ 
 
 ### Machine Learning & AI  
 <div align="left">  
@@ -79,6 +70,16 @@ I'm a student at the Department of Information and Communication Systems Enginee
 </td>  
 <td valign="top" width="25%">  
 
+### Game Development  
+<div align="left">  
+<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="35" /></a>  
+</div>
+
+</td>  
+</tr>  
+<tr>  
+<td valign="top" width="25%"> 
+ 
 ### Operating Systems  
 <div align="left">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="35" /></a>  
