@@ -1,16 +1,6 @@
 # 👋 Hello, I'm Athanasia Grigoridou! <img src="https://komarev.com/ghpvc/?username=agrigoridou&&style=flat-square" align="right" />
  
 
-
-I'm an undergraduate student in the Department of Information and Communication Systems Engineering at the University of the Aegean. I am passionate about Robotics, Artificial Intelligence and Machine Learning and I like to dive deep into these fields through my studies and personal projects.
-
-## 🚀 What I'm Currently Working On
-
-- 🌱 I’m currently exploring advancements in AI and Machine Learning.
-- 🛠️ I’m working on projects related to robotics and intelligent systems.
-- 💬 Ask me about Java, Python, C++, and AI technologies.
-
-
 ## 🛠️ My Skill Set  
 <table><tr>  
 <td valign="top" width="25%">  
