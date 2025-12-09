@@ -74,12 +74,6 @@
 
 
 
-## 📊 GitHub Stats
-
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; justify-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=agrigoridou&show_icons=true&theme=radical" alt="GitHub Stats"  height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrigoridou&layout=donut&theme=dark" alt="Top Languages"  height="200" />
-</div>
 
 
 
