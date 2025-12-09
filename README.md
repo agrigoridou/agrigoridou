@@ -70,7 +70,7 @@
 
 </td>  
 </tr>  
-
+</table>
 
 
 
@@ -81,7 +81,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrigoridou&layout=donut&theme=dark" alt="Top Languages"  height="200" />
 </div>
 
-</table>
+
 
 
 
