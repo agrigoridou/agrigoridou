@@ -62,13 +62,6 @@
 </td>  
 <td valign="top" width="25%">  
 
-### Game Development  
-<div align="left">  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="35" /></a>  
-</div>
-
-</td>   
-<td valign="top" width="25%"> 
  
 ### Operating Systems  
 <div align="left">  
